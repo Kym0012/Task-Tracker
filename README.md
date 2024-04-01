@@ -2,6 +2,8 @@
 Task Tracker is a simple web application built with React for tracking tasks. It allows users to add, delete, and toggle reminders for tasks.
 
 
+![taskTracker](https://github.com/Kym0012/Task-Tracker/assets/127049484/b356a5f0-b527-475d-ac70-ee8889b810f5)
+
 # Features
 Add tasks: Users can add new tasks with a title and optional reminder.
 Delete tasks: Users can delete tasks they no longer need.
