@@ -2,7 +2,7 @@
 Task Tracker is a simple web application built with React for tracking tasks. It allows users to add, delete, and toggle reminders for tasks.
 
 
-Features
+# Features
 Add tasks: Users can add new tasks with a title and optional reminder.
 Delete tasks: Users can delete tasks they no longer need.
 Toggle reminders: Users can mark tasks as reminders to keep track of important tasks.
@@ -10,34 +10,34 @@ Getting Started
 Prerequisites
 Make sure you have Node.js and npm installed on your machine.
 
-Installation
+# Installation
 Clone this repository:
 
-bash
+# bash
 Copy code
 git clone <https://github.com/Kym0012/Task-Tracker.git>
 Navigate to the project directory:
 
 
-Copy code
+# Copy code
 
 cd task-tracker
 Install dependencies:
 
 
-Copy code
+# Copy code
 npm install
 
 
-Usage
+# Usage
 Start the development server:
 
 
-Copy code
+# Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to view the application.
 
-Usage Example
+# Usage Example
 To add a new task, click on the "Add" button in the header.
 Enter the title and optionally set a reminder for the task.
 Click on the "Add Task" button to add the task.
